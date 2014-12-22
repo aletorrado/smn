@@ -1,11 +1,16 @@
 {
   "name": "smn",
   "version": "0.0.1",
-  "description": "",
+  "description": "Scraper for Servicio Meteorológico Nacional",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: WIP\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aletorrado/smn.git"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  },
+  "author": "Alejandro Torrado",
+  "license": "MIT"
 }
