@@ -1,0 +1,11 @@
+{
+  "name": "smn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: WIP\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
