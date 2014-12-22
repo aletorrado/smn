@@ -1,6 +1,6 @@
 {
   "name": "smn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scraper for Servicio Meteorológico Nacional",
   "main": "index.js",
   "repository": {
