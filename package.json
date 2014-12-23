@@ -1,7 +1,7 @@
 {
   "name": "smn",
   "version": "0.0.2",
-  "description": "Scraper for Servicio Meteorológico Nacional",
+  "description": "Scraper for Servicio Meteorológico Nacional (Argentina)",
   "main": "index.js",
   "repository": {
     "type": "git",
