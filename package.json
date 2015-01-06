@@ -1,6 +1,6 @@
 {
   "name": "smn",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Scraper for Servicio Meteorológico Nacional (Argentina)",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "request": "*",
-    "cheerio": "*"
+    "cheerio": "*",
+    "async": "*",
+    "lodash": "*",
+    "unorm": "*"
   },
   "author": "Alejandro Torrado",
   "license": "MIT"
