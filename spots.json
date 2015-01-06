@@ -1,0 +1,2072 @@
+[
+    {
+        "province": "Capital Federal",
+        "city": "Aeroparque Buenos Aires",
+        "id": "aeroparque_buenos_aires",
+        "location": {
+            "lat": -34.5580305,
+            "lng": -58.4170088
+        },
+        "live": true
+    },
+    {
+        "province": "Capital Federal",
+        "city": "Buenos Aires",
+        "id": "buenos_aires",
+        "location": {
+            "lat": -34.6036844,
+            "lng": -58.3815591
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "9 de Julio",
+        "id": "9_de_julio",
+        "location": {
+            "lat": -35.4459572,
+            "lng": -60.8833771
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Avellaneda",
+        "id": "avellaneda",
+        "location": {
+            "lat": -34.6610756,
+            "lng": -58.3669739
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Azul",
+        "id": "azul",
+        "location": {
+            "lat": -36.7749672,
+            "lng": -59.8540382
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Bahía Blanca",
+        "id": "bahia_blanca",
+        "location": {
+            "lat": -38.71167760000001,
+            "lng": -62.26807780000001
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Balcarce",
+        "id": "balcarce",
+        "location": {
+            "lat": -37.8464067,
+            "lng": -58.25545839999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Banfield",
+        "id": "banfield",
+        "location": {
+            "lat": -34.74461120000001,
+            "lng": -58.39173160000001
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Benito Juárez",
+        "id": "benito_juarez",
+        "location": {
+            "lat": -37.6734123,
+            "lng": -59.8051033
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Bolívar",
+        "id": "bolivar",
+        "location": {
+            "lat": -36.2283936,
+            "lng": -61.1076431
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Carmen de Patagones",
+        "id": "carmen_de_patagones",
+        "location": {
+            "lat": -40.7986389,
+            "lng": -62.9803611
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Chacabuco",
+        "id": "chacabuco",
+        "location": {
+            "lat": -34.63593290000001,
+            "lng": -60.4651222
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Chascomús",
+        "id": "chascomus",
+        "location": {
+            "lat": -35.5791795,
+            "lng": -58.0136875
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Ciudad Evita",
+        "id": "ciudad_evita",
+        "location": {
+            "lat": -34.7175201,
+            "lng": -58.53564119999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Coronel Pringles",
+        "id": "coronel_pringles",
+        "location": {
+            "lat": -37.9854202,
+            "lng": -61.3540382
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Coronel Suarez",
+        "id": "coronel_suarez",
+        "location": {
+            "lat": -37.4559517,
+            "lng": -61.93072509999999
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Dolores",
+        "id": "dolores",
+        "location": {
+            "lat": -36.3152317,
+            "lng": -57.6753107
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Don Torcuato",
+        "id": "don_torcuato",
+        "location": {
+            "lat": -34.4938049,
+            "lng": -58.62727150000001
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "El Palomar",
+        "id": "el_palomar",
+        "location": {
+            "lat": -34.6266731,
+            "lng": -58.5943604
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Ezeiza",
+        "id": "ezeiza",
+        "location": {
+            "lat": -34.8537327,
+            "lng": -58.5228619
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "General Villegas",
+        "id": "general_villegas",
+        "location": {
+            "lat": -35.03265,
+            "lng": -63.0175781
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Junín",
+        "id": "junin",
+        "location": {
+            "lat": -34.5885499,
+            "lng": -60.94955400000001
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "La Plata",
+        "id": "la_plata",
+        "location": {
+            "lat": -34.92125,
+            "lng": -57.95433329999999
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Las Flores",
+        "id": "las_flores",
+        "location": {
+            "lat": -36.0160141,
+            "lng": -59.0969849
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Lomas de Zamora",
+        "id": "lomas_de_zamora",
+        "location": {
+            "lat": -34.76118230000001,
+            "lng": -58.4302476
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Maipú",
+        "id": "maipu",
+        "location": {
+            "lat": -36.8652039,
+            "lng": -57.87712860000001
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Mar del Plata",
+        "id": "mar_del_plata",
+        "location": {
+            "lat": -37.9798584,
+            "lng": -57.5897942
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Merlo",
+        "id": "merlo",
+        "location": {
+            "lat": -34.6685004,
+            "lng": -58.7282483
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Miramar",
+        "id": "miramar",
+        "location": {
+            "lat": -38.2653809,
+            "lng": -57.8512611
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Monte Hermoso",
+        "id": "monte_hermoso",
+        "location": {
+            "lat": -38.9166669,
+            "lng": -61.55
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Morón",
+        "id": "moron",
+        "location": {
+            "lat": -34.6558611,
+            "lng": -58.6167212
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Necochea",
+        "id": "necochea",
+        "location": {
+            "lat": -38.5544968,
+            "lng": -58.73960879999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Olavarría",
+        "id": "olavarria",
+        "location": {
+            "lat": -36.8920898,
+            "lng": -60.3149414
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Pehuajó",
+        "id": "pehuajo",
+        "location": {
+            "lat": -35.8110008,
+            "lng": -61.8956757
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Pergamino",
+        "id": "pergamino",
+        "location": {
+            "lat": -33.8881416,
+            "lng": -60.5693359
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Pigué",
+        "id": "pigue",
+        "location": {
+            "lat": -37.60420610000001,
+            "lng": -62.40668489999999
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Pinamar",
+        "id": "pinamar",
+        "location": {
+            "lat": -37.1026802,
+            "lng": -56.8653641
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Punta Indio B.A.",
+        "id": "punta_indio_b.a.",
+        "location": {
+            "lat": -35.2743492,
+            "lng": -57.26073839999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Quilmes",
+        "id": "quilmes",
+        "location": {
+            "lat": -34.7260246,
+            "lng": -58.25435640000001
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Andrés",
+        "id": "san_andres",
+        "location": {
+            "lat": -34.5564986,
+            "lng": -58.5361078
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Antonio de Areco",
+        "id": "san_antonio_de_areco",
+        "location": {
+            "lat": -34.2498817,
+            "lng": -59.46625139999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Bernardo",
+        "id": "san_bernardo",
+        "location": {
+            "lat": -36.6966095,
+            "lng": -56.683773
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Clemente del Tuyú",
+        "id": "san_clemente_del_tuyu",
+        "location": {
+            "lat": -36.3695702,
+            "lng": -56.7175713
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Fernando",
+        "id": "san_fernando",
+        "location": {
+            "lat": -34.4430618,
+            "lng": -58.55796429999999
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Isidro",
+        "id": "san_isidro",
+        "location": {
+            "lat": -34.470829,
+            "lng": -58.5286102
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Miguel",
+        "id": "san_miguel",
+        "location": {
+            "lat": -34.543055,
+            "lng": -58.7118577
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "San Pedro",
+        "id": "san_pedro",
+        "location": {
+            "lat": -33.682003,
+            "lng": -59.66516489999999
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Santa Teresita",
+        "id": "santa_teresita",
+        "location": {
+            "lat": -36.5437544,
+            "lng": -56.702013
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Tandil",
+        "id": "tandil",
+        "location": {
+            "lat": -37.3178101,
+            "lng": -59.1503906
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Tigre",
+        "id": "tigre",
+        "location": {
+            "lat": -34.425087,
+            "lng": -58.57965850000001
+        },
+        "live": false
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Trenque Lauquen",
+        "id": "trenque_lauquen",
+        "location": {
+            "lat": -35.9732789,
+            "lng": -62.7325973
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Tres Arroyos",
+        "id": "tres_arroyos",
+        "location": {
+            "lat": -38.3763123,
+            "lng": -60.2781296
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Villa Gesell",
+        "id": "villa_gesell",
+        "location": {
+            "lat": -37.2633972,
+            "lng": -56.9732704
+        },
+        "live": true
+    },
+    {
+        "province": "Buenos Aires",
+        "city": "Zárate",
+        "id": "zarate",
+        "location": {
+            "lat": -34.0988083,
+            "lng": -59.0322914
+        },
+        "live": false
+    },
+    {
+        "province": "Catamarca",
+        "city": "Andalgalá",
+        "id": "andalgala",
+        "location": {
+            "lat": -27.6004009,
+            "lng": -66.3162308
+        },
+        "live": false
+    },
+    {
+        "province": "Catamarca",
+        "city": "Belén",
+        "id": "belen",
+        "location": {
+            "lat": -27.6498394,
+            "lng": -67.0330811
+        },
+        "live": false
+    },
+    {
+        "province": "Catamarca",
+        "city": "Catamarca",
+        "id": "catamarca",
+        "location": {
+            "lat": -28.4689906,
+            "lng": -65.77897159999999
+        },
+        "live": true
+    },
+    {
+        "province": "Catamarca",
+        "city": "Santa María",
+        "id": "santa_maria",
+        "location": {
+            "lat": -26.6988792,
+            "lng": -66.0485611
+        },
+        "live": false
+    },
+    {
+        "province": "Catamarca",
+        "city": "Tinogasta",
+        "id": "tinogasta",
+        "location": {
+            "lat": -28.0673199,
+            "lng": -67.565918
+        },
+        "live": true
+    },
+    {
+        "province": "Chaco",
+        "city": "General José de San Martín",
+        "id": "general_jose_de_san_martin",
+        "location": {
+            "lat": -26.53898,
+            "lng": -59.34269
+        },
+        "live": false
+    },
+    {
+        "province": "Chaco",
+        "city": "Pcia. Roque Saenz Peña",
+        "id": "pcia._roque_saenz_pena",
+        "location": {
+            "lat": -27.4662457,
+            "lng": -58.99812699999999
+        },
+        "live": true
+    },
+    {
+        "province": "Chaco",
+        "city": "Resistencia",
+        "id": "resistencia",
+        "location": {
+            "lat": -27.451656,
+            "lng": -58.98625199999999
+        },
+        "live": true
+    },
+    {
+        "province": "Chaco",
+        "city": "Villa Angela",
+        "id": "villa_angela",
+        "location": {
+            "lat": -27.5758266,
+            "lng": -60.7136879
+        },
+        "live": false
+    },
+    {
+        "province": "Chubut",
+        "city": "Comodoro Rivadavia",
+        "id": "comodoro_rivadavia",
+        "location": {
+            "lat": -45.8679199,
+            "lng": -67.5
+        },
+        "live": true
+    },
+    {
+        "province": "Chubut",
+        "city": "Esquel",
+        "id": "esquel",
+        "location": {
+            "lat": -42.9171389,
+            "lng": -71.3218333
+        },
+        "live": true
+    },
+    {
+        "province": "Chubut",
+        "city": "Paso De Indios",
+        "id": "paso_de_indios",
+        "location": {
+            "lat": -43.8647804,
+            "lng": -69.04383849999999
+        },
+        "live": true
+    },
+    {
+        "province": "Chubut",
+        "city": "Puerto Madryn",
+        "id": "puerto_madryn",
+        "location": {
+            "lat": -42.7543983,
+            "lng": -65.04930879999999
+        },
+        "live": true
+    },
+    {
+        "province": "Chubut",
+        "city": "Rawson",
+        "id": "rawson",
+        "location": {
+            "lat": -43.2998581,
+            "lng": -65.09948729999999
+        },
+        "live": false
+    },
+    {
+        "province": "Chubut",
+        "city": "Trelew",
+        "id": "trelew",
+        "location": {
+            "lat": -43.2491302,
+            "lng": -65.3074036
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Almafuerte",
+        "id": "almafuerte",
+        "location": {
+            "lat": -32.1924629,
+            "lng": -64.25002289999999
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Alta Gracia",
+        "id": "alta_gracia",
+        "location": {
+            "lat": -31.65455249999999,
+            "lng": -64.43060299999999
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Bell Ville",
+        "id": "bell_ville",
+        "location": {
+            "lat": -32.6201134,
+            "lng": -62.68926239999999
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Córdoba",
+        "id": "cordoba",
+        "location": {
+            "lat": -31.3989296,
+            "lng": -64.1821289
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Córdoba Observatorio",
+        "id": "cordoba_observatorio",
+        "location": {
+            "lat": -31.4187508,
+            "lng": -64.19792939999999
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Coronel Moldes",
+        "id": "coronel_moldes",
+        "location": {
+            "lat": -33.6346397,
+            "lng": -64.59960939999999
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Cosquín",
+        "id": "cosquin",
+        "location": {
+            "lat": -31.2424126,
+            "lng": -64.4626083
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Cruz del Eje",
+        "id": "cruz_del_eje",
+        "location": {
+            "lat": -30.7211227,
+            "lng": -64.8098984
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "La Carlota",
+        "id": "la_carlota",
+        "location": {
+            "lat": -33.4203339,
+            "lng": -63.2935677
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Laboulaye",
+        "id": "laboulaye",
+        "location": {
+            "lat": -34.1289345,
+            "lng": -63.3907763
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Marcos Juárez",
+        "id": "marcos_juarez",
+        "location": {
+            "lat": -32.6936073,
+            "lng": -62.10267640000001
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Mina Clavero",
+        "id": "mina_clavero",
+        "location": {
+            "lat": -31.7166691,
+            "lng": -65
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Pilar Obs.",
+        "id": "pilar_obs.",
+        "location": {
+            "lat": 37.8881751,
+            "lng": -4.7793835
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Río Cuarto",
+        "id": "rio_cuarto",
+        "location": {
+            "lat": -33.132019,
+            "lng": -64.3496704
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Río Tercero",
+        "id": "rio_tercero",
+        "location": {
+            "lat": -32.1765435,
+            "lng": -64.1132028
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "San Francisco",
+        "id": "san_francisco",
+        "location": {
+            "lat": -31.42499919999999,
+            "lng": -62.0841599
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Villa Dolores",
+        "id": "villa_dolores",
+        "location": {
+            "lat": -31.944437,
+            "lng": -65.19210819999999
+        },
+        "live": true
+    },
+    {
+        "province": "Córdoba",
+        "city": "Villa General Belgrano",
+        "id": "villa_general_belgrano",
+        "location": {
+            "lat": -31.9833298,
+            "lng": -64.5666809
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Villa Huidobro",
+        "id": "villa_huidobro",
+        "location": {
+            "lat": -34.8321495,
+            "lng": -64.5831299
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Villa María",
+        "id": "villa_maria",
+        "location": {
+            "lat": -32.4104614,
+            "lng": -63.24364499999999
+        },
+        "live": false
+    },
+    {
+        "province": "Córdoba",
+        "city": "Villa María Del Río Seco",
+        "id": "villa_maria_del_rio_seco",
+        "location": {
+            "lat": -29.9028034,
+            "lng": -63.72048949999999
+        },
+        "live": true
+    },
+    {
+        "province": "Corrientes",
+        "city": "Corrientes",
+        "id": "corrientes",
+        "location": {
+            "lat": -27.4712257,
+            "lng": -58.83958440000001
+        },
+        "live": true
+    },
+    {
+        "province": "Corrientes",
+        "city": "Curuzú Cuatiá",
+        "id": "curuzu_cuatia",
+        "location": {
+            "lat": -29.7915416,
+            "lng": -58.0499307
+        },
+        "live": false
+    },
+    {
+        "province": "Corrientes",
+        "city": "Empedrado",
+        "id": "empedrado",
+        "location": {
+            "lat": -27.9517136,
+            "lng": -58.80408479999999
+        },
+        "live": false
+    },
+    {
+        "province": "Corrientes",
+        "city": "Goya",
+        "id": "goya",
+        "location": {
+            "lat": -29.1442242,
+            "lng": -59.2643242
+        },
+        "live": false
+    },
+    {
+        "province": "Corrientes",
+        "city": "Ituzaingó",
+        "id": "ituzaingo",
+        "location": {
+            "lat": -27.5707613,
+            "lng": -56.7246995
+        },
+        "live": true
+    },
+    {
+        "province": "Corrientes",
+        "city": "Monte Caseros",
+        "id": "monte_caseros",
+        "location": {
+            "lat": -30.2494283,
+            "lng": -57.62968739999999
+        },
+        "live": true
+    },
+    {
+        "province": "Corrientes",
+        "city": "Paso De Los Libres",
+        "id": "paso_de_los_libres",
+        "location": {
+            "lat": -29.7137101,
+            "lng": -57.0855601
+        },
+        "live": true
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Colón",
+        "id": "colon",
+        "location": {
+            "lat": -32.2249328,
+            "lng": -58.1447142
+        },
+        "live": false
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Concepción del Uruguay",
+        "id": "concepcion_del_uruguay",
+        "location": {
+            "lat": -32.4845349,
+            "lng": -58.2321416
+        },
+        "live": false
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Concordia",
+        "id": "concordia",
+        "location": {
+            "lat": -31.3918479,
+            "lng": -58.0170605
+        },
+        "live": true
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Gualeguay",
+        "id": "gualeguay",
+        "location": {
+            "lat": -33.1512413,
+            "lng": -59.3344116
+        },
+        "live": false
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Gualeguaychú",
+        "id": "gualeguaychu",
+        "location": {
+            "lat": -33.0077778,
+            "lng": -58.5111667
+        },
+        "live": true
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "La Paz",
+        "id": "la_paz",
+        "location": {
+            "lat": -30.7589703,
+            "lng": -59.63927839999999
+        },
+        "live": false
+    },
+    {
+        "province": "Entre Ríos",
+        "city": "Paraná",
+        "id": "parana",
+        "location": {
+            "lat": -31.7413197,
+            "lng": -60.51154709999999
+        },
+        "live": true
+    },
+    {
+        "province": "Formosa",
+        "city": "Clorinda",
+        "id": "clorinda",
+        "location": {
+            "lat": -25.2881832,
+            "lng": -57.7228203
+        },
+        "live": false
+    },
+    {
+        "province": "Formosa",
+        "city": "Formosa",
+        "id": "formosa",
+        "location": {
+            "lat": -26.185201,
+            "lng": -58.1753697
+        },
+        "live": true
+    },
+    {
+        "province": "Formosa",
+        "city": "Las Lomitas",
+        "id": "las_lomitas",
+        "location": {
+            "lat": -24.7045002,
+            "lng": -60.6005783
+        },
+        "live": true
+    },
+    {
+        "province": "Formosa",
+        "city": "Pirane",
+        "id": "pirane",
+        "location": {
+            "lat": -25.7317829,
+            "lng": -59.10686870000001
+        },
+        "live": false
+    },
+    {
+        "province": "Tierra del Fuego",
+        "city": "Puerto Argentino",
+        "id": "puerto_argentino",
+        "location": {
+            "lat": -54.8305056,
+            "lng": -68.3412456
+        },
+        "live": false
+    },
+    {
+        "province": "Jujuy",
+        "city": "Humahuaca",
+        "id": "humahuaca",
+        "location": {
+            "lat": -23.203963,
+            "lng": -65.34860929999999
+        },
+        "live": false
+    },
+    {
+        "province": "Jujuy",
+        "city": "Jujuy",
+        "id": "jujuy",
+        "location": {
+            "lat": -24.1857864,
+            "lng": -65.2994767
+        },
+        "live": true
+    },
+    {
+        "province": "Jujuy",
+        "city": "La Quiaca",
+        "id": "la_quiaca",
+        "location": {
+            "lat": -22.1044031,
+            "lng": -65.5967709
+        },
+        "live": true
+    },
+    {
+        "province": "Jujuy",
+        "city": "Libertador General San Martín",
+        "id": "libertador_general_san_martin",
+        "location": {
+            "lat": -23.8153322,
+            "lng": -64.7928261
+        },
+        "live": false
+    },
+    {
+        "province": "Jujuy",
+        "city": "Palpalá",
+        "id": "palpala",
+        "location": {
+            "lat": -24.2648355,
+            "lng": -65.2117778
+        },
+        "live": false
+    },
+    {
+        "province": "Jujuy",
+        "city": "Perico",
+        "id": "perico",
+        "location": {
+            "lat": -24.3761569,
+            "lng": -65.118186
+        },
+        "live": false
+    },
+    {
+        "province": "Jujuy",
+        "city": "San Pedro (J)",
+        "id": "san_pedro_(j)",
+        "location": {
+            "lat": -24.2316571,
+            "lng": -64.8678707
+        },
+        "live": false
+    },
+    {
+        "province": "La Pampa",
+        "city": "25 de Mayo",
+        "id": "25_de_mayo",
+        "location": {
+            "lat": -37.7712364,
+            "lng": -67.7173538
+        },
+        "live": false
+    },
+    {
+        "province": "La Pampa",
+        "city": "Eduardo Castex",
+        "id": "eduardo_castex",
+        "location": {
+            "lat": -35.9091738,
+            "lng": -64.2832655
+        },
+        "live": false
+    },
+    {
+        "province": "La Pampa",
+        "city": "General Acha",
+        "id": "general_acha",
+        "location": {
+            "lat": -37.3761444,
+            "lng": -64.6000442
+        },
+        "live": false
+    },
+    {
+        "province": "La Pampa",
+        "city": "General Pico",
+        "id": "general_pico",
+        "location": {
+            "lat": -35.6569519,
+            "lng": -63.75454709999999
+        },
+        "live": true
+    },
+    {
+        "province": "La Pampa",
+        "city": "Intendente Alvear",
+        "id": "intendente_alvear",
+        "location": {
+            "lat": -35.236515,
+            "lng": -63.59082789999999
+        },
+        "live": false
+    },
+    {
+        "province": "La Pampa",
+        "city": "Santa Rosa",
+        "id": "santa_rosa",
+        "location": {
+            "lat": -36.62076800000001,
+            "lng": -64.290062
+        },
+        "live": true
+    },
+    {
+        "province": "La Rioja",
+        "city": "Aimogasta",
+        "id": "aimogasta",
+        "location": {
+            "lat": -28.5549145,
+            "lng": -66.81731409999999
+        },
+        "live": false
+    },
+    {
+        "province": "La Rioja",
+        "city": "Chamical",
+        "id": "chamical",
+        "location": {
+            "lat": -30.36156459999999,
+            "lng": -66.31504819999999
+        },
+        "live": true
+    },
+    {
+        "province": "La Rioja",
+        "city": "Chepes",
+        "id": "chepes",
+        "location": {
+            "lat": -31.3363895,
+            "lng": -66.5918427
+        },
+        "live": true
+    },
+    {
+        "province": "La Rioja",
+        "city": "Chilecito",
+        "id": "chilecito",
+        "location": {
+            "lat": -29.1659603,
+            "lng": -67.5
+        },
+        "live": true
+    },
+    {
+        "province": "La Rioja",
+        "city": "La Rioja",
+        "id": "la_rioja",
+        "location": {
+            "lat": -29.4128001,
+            "lng": -66.8559803
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "General Alvear",
+        "id": "general_alvear",
+        "location": {
+            "lat": -34.9740067,
+            "lng": -67.6856918
+        },
+        "live": false
+    },
+    {
+        "province": "Mendoza",
+        "city": "Malargue",
+        "id": "malargue",
+        "location": {
+            "lat": -35.4721298,
+            "lng": -69.5808716
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "Mendoza",
+        "id": "mendoza",
+        "location": {
+            "lat": -32.890183,
+            "lng": -68.8440498
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "Mendoza Observatorio",
+        "id": "mendoza_observatorio",
+        "location": {
+            "lat": -32.8899978,
+            "lng": -68.8416731
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "Punta de Vacas",
+        "id": "punta_de_vacas",
+        "location": {
+            "lat": -32.8518715,
+            "lng": -69.7576904
+        },
+        "live": false
+    },
+    {
+        "province": "Mendoza",
+        "city": "San Carlos",
+        "id": "san_carlos",
+        "location": {
+            "lat": -33.7738457,
+            "lng": -69.0417938
+        },
+        "live": false
+    },
+    {
+        "province": "Mendoza",
+        "city": "San Martín (Mza)",
+        "id": "san_martin_(mza)",
+        "location": {
+            "lat": -33.0799789,
+            "lng": -68.4694595
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "San Rafael",
+        "id": "san_rafael",
+        "location": {
+            "lat": -34.6131516,
+            "lng": -68.341011
+        },
+        "live": true
+    },
+    {
+        "province": "Mendoza",
+        "city": "Tunuyán",
+        "id": "tunuyan",
+        "location": {
+            "lat": -33.571167,
+            "lng": -69.0132141
+        },
+        "live": false
+    },
+    {
+        "province": "Mendoza",
+        "city": "Uspallata",
+        "id": "uspallata",
+        "location": {
+            "lat": -32.5900116,
+            "lng": -69.3454666
+        },
+        "live": true
+    },
+    {
+        "province": "Misiones",
+        "city": "Apóstoles",
+        "id": "apostoles",
+        "location": {
+            "lat": -27.9143324,
+            "lng": -55.7549223
+        },
+        "live": false
+    },
+    {
+        "province": "Misiones",
+        "city": "Bernardo de Irigoyen",
+        "id": "bernardo_de_irigoyen",
+        "location": {
+            "lat": -26.25,
+            "lng": -53.65000149999999
+        },
+        "live": true
+    },
+    {
+        "province": "Misiones",
+        "city": "Eldorado",
+        "id": "eldorado",
+        "location": {
+            "lat": -26.3999195,
+            "lng": -54.626812
+        },
+        "live": false
+    },
+    {
+        "province": "Misiones",
+        "city": "Iguazú",
+        "id": "iguazu",
+        "location": {
+            "lat": -25.8482523,
+            "lng": -54.3467152
+        },
+        "live": true
+    },
+    {
+        "province": "Misiones",
+        "city": "Oberá",
+        "id": "obera",
+        "location": {
+            "lat": -27.4867802,
+            "lng": -55.1203326
+        },
+        "live": true
+    },
+    {
+        "province": "Misiones",
+        "city": "Posadas",
+        "id": "posadas",
+        "location": {
+            "lat": -27.3621374,
+            "lng": -55.90087459999999
+        },
+        "live": true
+    },
+    {
+        "province": "Neuquén",
+        "city": "Chapelco",
+        "id": "chapelco",
+        "location": {
+            "lat": -38.9315681,
+            "lng": -68.11750789999999
+        },
+        "live": true
+    },
+    {
+        "province": "Neuquén",
+        "city": "Cutral Co",
+        "id": "cutral_co",
+        "location": {
+            "lat": -38.9328003,
+            "lng": -69.2331009
+        },
+        "live": false
+    },
+    {
+        "province": "Neuquén",
+        "city": "Neuquén",
+        "id": "neuquen",
+        "location": {
+            "lat": -38.9524444,
+            "lng": -68.0641389
+        },
+        "live": true
+    },
+    {
+        "province": "Neuquén",
+        "city": "San Martín de los Andes",
+        "id": "san_martin_de_los_andes",
+        "location": {
+            "lat": -40.1550903,
+            "lng": -71.3541946
+        },
+        "live": false
+    },
+    {
+        "province": "Neuquén",
+        "city": "Villa La Angostura",
+        "id": "villa_la_angostura",
+        "location": {
+            "lat": -40.7634201,
+            "lng": -71.6461411
+        },
+        "live": false
+    },
+    {
+        "province": "Neuquén",
+        "city": "Zapala",
+        "id": "zapala",
+        "location": {
+            "lat": -38.9023615,
+            "lng": -70.06534049999999
+        },
+        "live": false
+    },
+    {
+        "province": "Río Negro",
+        "city": "Bariloche",
+        "id": "bariloche",
+        "location": {
+            "lat": -41.1334722,
+            "lng": -71.3102778
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "Choele Choel",
+        "id": "choele_choel",
+        "location": {
+            "lat": -39.2879906,
+            "lng": -65.66539759999999
+        },
+        "live": false
+    },
+    {
+        "province": "Río Negro",
+        "city": "Cipolletti",
+        "id": "cipolletti",
+        "location": {
+            "lat": -38.938771,
+            "lng": -67.9954929
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "El Bolsón",
+        "id": "el_bolson",
+        "location": {
+            "lat": -41.9677696,
+            "lng": -71.5155106
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "General Roca",
+        "id": "general_roca",
+        "location": {
+            "lat": -39.0267525,
+            "lng": -67.5751724
+        },
+        "live": false
+    },
+    {
+        "province": "Río Negro",
+        "city": "Maquinchao",
+        "id": "maquinchao",
+        "location": {
+            "lat": -41.24604799999999,
+            "lng": -68.6996918
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "Río Colorado",
+        "id": "rio_colorado",
+        "location": {
+            "lat": -38.9934616,
+            "lng": -64.0947266
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "San Antonio Oeste",
+        "id": "san_antonio_oeste",
+        "location": {
+            "lat": -40.7428017,
+            "lng": -64.9676514
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "Viedma",
+        "id": "viedma",
+        "location": {
+            "lat": -40.8119087,
+            "lng": -62.9962044
+        },
+        "live": true
+    },
+    {
+        "province": "Río Negro",
+        "city": "Villa Regina",
+        "id": "villa_regina",
+        "location": {
+            "lat": -39.1003418,
+            "lng": -67.0877991
+        },
+        "live": false
+    },
+    {
+        "province": "Salta",
+        "city": "Metán",
+        "id": "metan",
+        "location": {
+            "lat": -25.4942245,
+            "lng": -64.97212979999999
+        },
+        "live": true
+    },
+    {
+        "province": "Salta",
+        "city": "Orán",
+        "id": "oran",
+        "location": {
+            "lat": -23.13883,
+            "lng": -64.318558
+        },
+        "live": true
+    },
+    {
+        "province": "Salta",
+        "city": "Rivadavia",
+        "id": "rivadavia",
+        "location": {
+            "lat": -24.1836605,
+            "lng": -62.8829918
+        },
+        "live": true
+    },
+    {
+        "province": "Salta",
+        "city": "Salta",
+        "id": "salta",
+        "location": {
+            "lat": -24.7829323,
+            "lng": -65.4121552
+        },
+        "live": true
+    },
+    {
+        "province": "Salta",
+        "city": "Tartagal",
+        "id": "tartagal",
+        "location": {
+            "lat": -22.5167622,
+            "lng": -63.8056084
+        },
+        "live": true
+    },
+    {
+        "province": "San Juan",
+        "city": "Caucete",
+        "id": "caucete",
+        "location": {
+            "lat": -31.6541691,
+            "lng": -68.2852783
+        },
+        "live": false
+    },
+    {
+        "province": "San Juan",
+        "city": "Jachal",
+        "id": "jachal",
+        "location": {
+            "lat": -30.3134889,
+            "lng": -68.3339275
+        },
+        "live": true
+    },
+    {
+        "province": "San Juan",
+        "city": "San Juan",
+        "id": "san_juan",
+        "location": {
+            "lat": -31.5272732,
+            "lng": -68.5214081
+        },
+        "live": true
+    },
+    {
+        "province": "San Luis",
+        "city": "J. Daract",
+        "id": "j._daract",
+        "location": {
+            "lat": -33.2773895,
+            "lng": -66.3382187
+        },
+        "live": false
+    },
+    {
+        "province": "San Luis",
+        "city": "La Toma",
+        "id": "la_toma",
+        "location": {
+            "lat": -33.0548161,
+            "lng": -65.61749429999999
+        },
+        "live": false
+    },
+    {
+        "province": "San Luis",
+        "city": "Merlo (SL)",
+        "id": "merlo_(sl)",
+        "location": {
+            "lat": -32.3492393,
+            "lng": -65.0335693
+        },
+        "live": false
+    },
+    {
+        "province": "San Luis",
+        "city": "San Luis",
+        "id": "san_luis",
+        "location": {
+            "lat": -33.3022202,
+            "lng": -66.3367976
+        },
+        "live": true
+    },
+    {
+        "province": "San Luis",
+        "city": "Santa Rosa del Conlara",
+        "id": "santa_rosa_del_conlara",
+        "location": {
+            "lat": -32.3419724,
+            "lng": -65.2070694
+        },
+        "live": true
+    },
+    {
+        "province": "San Luis",
+        "city": "Villa Reynolds",
+        "id": "villa_reynolds",
+        "location": {
+            "lat": -33.717041,
+            "lng": -65.3824005
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Caleta Olivia",
+        "id": "caleta_olivia",
+        "location": {
+            "lat": -46.4411964,
+            "lng": -67.5194855
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "El Calafate",
+        "id": "el_calafate",
+        "location": {
+            "lat": -50.3402138,
+            "lng": -72.27050779999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Gobernador Gregores",
+        "id": "gobernador_gregores",
+        "location": {
+            "lat": -48.7510803,
+            "lng": -70.2500676
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Perito Moreno",
+        "id": "perito_moreno",
+        "location": {
+            "lat": -46.5906525,
+            "lng": -70.9269791
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Puerto Deseado",
+        "id": "puerto_deseado",
+        "location": {
+            "lat": -47.7491608,
+            "lng": -65.8880386
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Río Gallegos",
+        "id": "rio_gallegos",
+        "location": {
+            "lat": -51.6230485,
+            "lng": -69.2168291
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "San Julián",
+        "id": "san_julian",
+        "location": {
+            "lat": -16.9064,
+            "lng": -62.61689999999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Cruz",
+        "city": "Santa Cruz",
+        "id": "santa_cruz",
+        "location": {
+            "lat": 36.9741171,
+            "lng": -122.0307963
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Casilda",
+        "id": "casilda",
+        "location": {
+            "lat": -33.0496216,
+            "lng": -61.1663818
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Ceres",
+        "id": "ceres",
+        "location": {
+            "lat": -29.8828106,
+            "lng": -61.9491615
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "El Trébol",
+        "id": "el_trebol",
+        "location": {
+            "lat": -32.1980158,
+            "lng": -61.70194999999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Las Rosas",
+        "id": "las_rosas",
+        "location": {
+            "lat": -32.4770508,
+            "lng": -61.5779724
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Melincué",
+        "id": "melincue",
+        "location": {
+            "lat": -33.659008,
+            "lng": -61.4541283
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Rafaela",
+        "id": "rafaela",
+        "location": {
+            "lat": -31.2525979,
+            "lng": -61.49164219999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Reconquista",
+        "id": "reconquista",
+        "location": {
+            "lat": -29.1448193,
+            "lng": -59.64352419999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Rosario",
+        "id": "rosario",
+        "location": {
+            "lat": -32.9507408,
+            "lng": -60.66650010000001
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "San Cristóbal",
+        "id": "san_cristobal",
+        "location": {
+            "lat": -30.3069038,
+            "lng": -61.2378159
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "San Javier",
+        "id": "san_javier",
+        "location": {
+            "lat": -30.5831909,
+            "lng": -59.9496384
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Santa Fe",
+        "id": "santa_fe",
+        "location": {
+            "lat": -31.6323891,
+            "lng": -60.6994591
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Sastre",
+        "id": "sastre",
+        "location": {
+            "lat": -31.7675702,
+            "lng": -61.82878409999999
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Sunchales",
+        "id": "sunchales",
+        "location": {
+            "lat": -30.9429569,
+            "lng": -61.5598907
+        },
+        "live": true
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Tostado",
+        "id": "tostado",
+        "location": {
+            "lat": -29.2327906,
+            "lng": -61.77137080000001
+        },
+        "live": false
+    },
+    {
+        "province": "Santa Fé",
+        "city": "Venado Tuerto",
+        "id": "venado_tuerto",
+        "location": {
+            "lat": -33.75,
+            "lng": -61.96564100000001
+        },
+        "live": true
+    },
+    {
+        "province": "Santiago del Estero",
+        "city": "Añatuya",
+        "id": "anatuya",
+        "location": {
+            "lat": -28.46558,
+            "lng": -62.83356089999999
+        },
+        "live": false
+    },
+    {
+        "province": "Santiago del Estero",
+        "city": "Frías",
+        "id": "frias",
+        "location": {
+            "lat": -28.6375538,
+            "lng": -65.1287605
+        },
+        "live": false
+    },
+    {
+        "province": "Santiago del Estero",
+        "city": "Santiago del Estero",
+        "id": "santiago_del_estero",
+        "location": {
+            "lat": -27.78442,
+            "lng": -64.26728059999999
+        },
+        "live": true
+    },
+    {
+        "province": "Santiago del Estero",
+        "city": "Termas de Río Hondo",
+        "id": "termas_de_rio_hondo",
+        "location": {
+            "lat": -27.4942493,
+            "lng": -64.8577881
+        },
+        "live": true
+    },
+    {
+        "province": "Ushuaia",
+        "city": "Río Grande B.A.",
+        "id": "rio_grande_b.a.",
+        "location": {
+            "lat": -53.7712037,
+            "lng": -67.7107068
+        },
+        "live": true
+    },
+    {
+        "province": "Ushuaia",
+        "city": "Tolhuin",
+        "id": "tolhuin",
+        "location": {
+            "lat": -54.8187177,
+            "lng": -68.3327612
+        },
+        "live": false
+    },
+    {
+        "province": "Ushuaia",
+        "city": "Ushuaia",
+        "id": "ushuaia",
+        "location": {
+            "lat": -54.8019121,
+            "lng": -68.3029511
+        },
+        "live": true
+    },
+    {
+        "province": "Tucumán",
+        "city": "Aguilares",
+        "id": "aguilares",
+        "location": {
+            "lat": -27.4328594,
+            "lng": -65.61586
+        },
+        "live": false
+    },
+    {
+        "province": "Tucumán",
+        "city": "Concepción",
+        "id": "concepcion",
+        "location": {
+            "lat": -27.3415661,
+            "lng": -65.59466549999999
+        },
+        "live": false
+    },
+    {
+        "province": "Tucumán",
+        "city": "Tafí Viejo",
+        "id": "tafi_viejo",
+        "location": {
+            "lat": -26.7324791,
+            "lng": -65.26702879999999
+        },
+        "live": false
+    },
+    {
+        "province": "Tucumán",
+        "city": "Tucumán",
+        "id": "tucuman",
+        "location": {
+            "lat": -26.8082848,
+            "lng": -65.2175903
+        },
+        "live": true
+    }
+]

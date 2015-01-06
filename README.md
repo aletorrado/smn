@@ -1,6 +1,3 @@
-Basic scraper for Servicio Meteorológico Nacional.
-=====================
-
 Usage
 ---------------------
 
