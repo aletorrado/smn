@@ -26,6 +26,8 @@ function translateIcon(value) {
 var tempSymbol = String.fromCharCode(65533); // latin1 temperature symbol
 
 function live(id, callback){
+	var prevDomain = process.domain || domain.create();
+	callback = prevDomain.bind(callback);
 	domain
 	.create()
 	.on('error', callback)
@@ -72,6 +74,8 @@ function live(id, callback){
 }
 
 function forecast(id, callback){
+	var prevDomain = process.domain || domain.create();
+	callback = prevDomain.bind(callback);
 	var spot = lodash.find(spots, {id: id});
 	domain
 	.create()
