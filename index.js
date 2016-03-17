@@ -151,7 +151,7 @@ function liveAll(options, callback){
 	if (typeof options == 'function') {
 		callback = options;
 	}
-	var ids = lodash.pluck(lodash.filter(spots, {live: true}), 'id');
+	var ids = lodash.map(lodash.filter(spots, {live: true}), 'id');
 	async.map(ids, noErrors(live), compactResults(callback));
 }
 
@@ -159,7 +159,7 @@ function forecastAll(options, callback){
 	if (typeof options == 'function') {
 		callback = options;
 	}
-	var ids = lodash.pluck(spots, 'id');
+	var ids = lodash.map(spots, 'id');
 	async.map(ids, noErrors(forecast), compactResults(callback));
 }
 
@@ -168,8 +168,8 @@ function liveWithForecast(callback){
 		if (err) {
 			return callback(err);
 		}
-		async.map(lodash.pluck(liveData, 'id'), noErrors(forecast), compactResults(function(err, forecastData){
-			var res = lodash.values(lodash.merge(lodash.indexBy(liveData, 'id'), lodash.indexBy(forecastData, 'id')));
+		async.map(lodash.map(liveData, 'id'), noErrors(forecast), compactResults(function(err, forecastData){
+			var res = lodash.values(lodash.merge(lodash.keyBy(liveData, 'id'), lodash.keyBy(forecastData, 'id')));
 			callback(null, res);
 		}));
 	});
