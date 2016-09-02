@@ -6,6 +6,7 @@ var cheerio = require('cheerio');
 var async = require('async');
 var unorm = require('unorm');
 var lodash = require('lodash');
+var url = require('url');
 
 var spots = require('./spots.json');
 var icons = require('./icons.json');
@@ -25,7 +26,16 @@ function translateIcon(value) {
 
 var tempSymbol = String.fromCharCode(65533); // latin1 temperature symbol
 
-function live(id, callback){
+var defaults = {
+	target_url: 'http://www.smn.gov.ar/',
+};
+
+function live(id, options, callback){
+	if (typeof options == 'function') {
+		callback = options;
+		options = {};
+	}
+	lodash.defaults(options, defaults);
 	var prevDomain = process.domain || domain.create();
 	callback = prevDomain.bind(callback);
 	domain
@@ -33,7 +43,7 @@ function live(id, callback){
 	.on('error', callback)
 	.run(function(){
 		request.get({
-			url: 'http://www.smn.gov.ar/mobile/estado_movil.php',
+			url: url.resolve(options.target_url, 'mobile/estado_movil.php'),
 			qs: {
 				ciudad: id.split("-")[1]
 			}
@@ -73,7 +83,12 @@ function live(id, callback){
 	});
 }
 
-function forecast(id, callback){
+function forecast(id, options, callback){
+	if (typeof options == 'function') {
+		callback = options;
+		options = {};
+	}
+	lodash.defaults(options, defaults);
 	var prevDomain = process.domain || domain.create();
 	callback = prevDomain.bind(callback);
 	var spot = lodash.find(spots, {id: id});
@@ -82,7 +97,7 @@ function forecast(id, callback){
 	.on('error', callback)
 	.run(function(){
 		request.get({
-			url: 'http://www.smn.gov.ar/mobile/pronostico_movil.php',
+			url: url.resolve(options.target_url, '/mobile/pronostico_movil.php'),
 			qs: {
 				provincia: id.split("-")[0],
 				ciudad: id.split("-")[1]
@@ -150,25 +165,43 @@ function compactResults(callback){
 function liveAll(options, callback){
 	if (typeof options == 'function') {
 		callback = options;
+		options = undefined;
 	}
 	var ids = lodash.map(lodash.filter(spots, {live: true}), 'id');
-	async.map(ids, noErrors(live), compactResults(callback));
+	async.mapLimit(ids, 5, function(id, callback){
+		live(id, options, function(err, data){
+			if (err) return callback();
+			callback(null, data);
+		})
+	}, compactResults(callback));
 }
 
 function forecastAll(options, callback){
 	if (typeof options == 'function') {
 		callback = options;
+		options = undefined;
 	}
 	var ids = lodash.map(spots, 'id');
-	async.map(ids, noErrors(forecast), compactResults(callback));
+	async.mapLimit(ids, 5, function(id, callback){
+		forecast(id, options, function(err, data){
+			if (err) return callback();
+			callback(null, data);
+		})
+	}, compactResults(callback));
 }
 
-function liveWithForecast(callback){
-	liveAll(function(err, liveData){
+function liveWithForecast(options, callback){
+	if (typeof options == 'function') {
+		callback = options;
+		options = undefined;
+	}
+	liveAll(options, function(err, liveData){
 		if (err) {
 			return callback(err);
 		}
-		async.map(lodash.map(liveData, 'id'), noErrors(forecast), compactResults(function(err, forecastData){
+		async.map(lodash.map(liveData, 'id'), noErrors(function(id, callback){
+			forecast(id, options, callback);
+		}), compactResults(function(err, forecastData){
 			var res = lodash.values(lodash.merge(lodash.keyBy(liveData, 'id'), lodash.keyBy(forecastData, 'id')));
 			callback(null, res);
 		}));
